@@ -1,5 +1,4 @@
 # Ascende-Superius-Satellite-Image-Processing
-Satellite Image Processing models that are developed by Ascende Superius Team for Plan-S Innovation Challenge
 
 Gözde Aycan (Optik Tasarım Mühendisi)
 

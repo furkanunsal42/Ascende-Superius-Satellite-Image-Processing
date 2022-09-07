@@ -1,7 +1,7 @@
 # Ascende-Superius-Satellite-Image-Processing
 Satellite Image Processing models that are developed by Ascende Superius Team for Plan-S Innovation Challenge
 
-.exe ve örnek uzay fotoğrafına buradann erişebilirsiniz(1.1GB): 
+.exe ve örnek uydu fotoğrafına buradann erişebilirsiniz(1.1GB): 
 https://drive.google.com/drive/folders/1a4-9UkrVXUFNjvWs7H_IzhgaflwVN121?usp=sharing
 
 # Ascende-Superius Takımı

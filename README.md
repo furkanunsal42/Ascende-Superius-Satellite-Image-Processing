@@ -4,7 +4,10 @@ Satellite Image Processing models that are developed by Ascende Superius Team fo
 Gözde Aycan (Optik Tasarım Mühendisi)
 
 Enes Beşli (Sistem Mühendisi)
+
 Furkan Ünsal (Görüntü İşleme Mühendisi)
+
+
 # İşlenmemiş Fotoğraf
 ![Input low-res](https://user-images.githubusercontent.com/89701935/188975559-a9dc9454-e7bd-4dbe-a6b9-81d86482c069.png)
 # İşlenmiş Fotoğraf

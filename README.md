@@ -6,10 +6,13 @@ https://drive.google.com/drive/folders/1a4-9UkrVXUFNjvWs7H_IzhgaflwVN121?usp=sha
 
 # Ascende-Superius Takımı
 Gözde Aycan (Optik Tasarım Mühendisi)
+https://www.linkedin.com/in/g%C3%B6zde-aycan-57ab5211a/
 
-Enes Beşli (Optik Sistem Mühendisi)
+Enes Beşli (Optik Sistem Mühendisi) 
+https://www.linkedin.com/in/enesbesli/
 
 Furkan Ünsal (Görüntü İşleme Mühendisi)
+https://www.linkedin.com/in/furkan-%C3%BCnsal-398884150/
 
 
 # İşlenmemiş Fotoğraf
